@@ -1,0 +1,4 @@
+watchdog==3.0.0
+hashlib
+psutil==5.9.6
+python-json-logger==2.0.7
