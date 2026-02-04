@@ -1,5 +1,7 @@
 # Secure File Transfer Monitoring System
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![GitHub Actions](https://github.com/gauravmalhotra3300-hub/secure-file-transfer-monitoring-system/workflows/Python%20CI/CD/badge.svg) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
 A comprehensive security project for monitoring and detecting unauthorized file transfers. Implements file integrity checks using hashing, real-time monitoring with watchdog, and generates detailed audit logs for suspicious file movement detection.
 
 ## Overview
@@ -158,3 +160,9 @@ This tool is designed for authorized security monitoring only. Unauthorized moni
 - Watchdog Documentation: https://watchdog.readthedocs.io/
 - OWASP Data Loss Prevention: https://owasp.org/
 - Python Security Best Practices: https://python.readthedocs.io/
+
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub Actions](https://github.com/gauravmalhotra3300-hub/secure-file-transfer-monitoring-system/workflows/Python%20CI/CD/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
